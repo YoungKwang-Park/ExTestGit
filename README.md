@@ -50,6 +50,10 @@
       *  Publish module contexts to separate XML files
       *  Modules auto reload by default
 
+    ** 참고<br>
+    ![tomcat](./img/tomcatSetting.jpg)
+
+
 3. Oracle
    * oracle XE  /  SID
    * ID : scott**
